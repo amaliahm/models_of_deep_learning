@@ -6,6 +6,7 @@ This repository is a structured collection of deep learning models and experimen
 
 ## 📁 Repository Structure
 
+```
 models_of_deep_learning/
 ├── pytorch/
 │ ├── autoencoder/
@@ -33,6 +34,7 @@ models_of_deep_learning/
 ├── mechanics/
 ├── metric/
 └── mlp/
+```
 
 ---
 
